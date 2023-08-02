@@ -50,16 +50,12 @@
 
 ASOS is a fashion brand for the newest & trending Cloths, fashion accessories and online shop that offered high quality products at an affordable price. We have built the exact website clone as it is on the original website.
 
-![cover](https://user-images.githubusercontent.com/103682371/202777689-29545b8a-8140-4e9f-b8e4-3f2d83303974.jpg)
+<!-- ![cover](https://user-images.githubusercontent.com/103682371/202777689-29545b8a-8140-4e9f-b8e4-3f2d83303974.jpg) -->
 
 <br />
 
 # Our Team Members 👨‍💻
-  - **[Amol Godse](https://github.com/agodse21)** 
-  - **[Abhishek Kumar](https://github.com/abhishekadityaroy102)** 
-  - **[Sudipta ](https://github.com/sudiptadip)** 
-  - **[Rohit Kumar](https://github.com/rk6093720)** 
-  - **[Mahesh Raut](https://github.com/Rautmahi)** 
+  -
   - 
 # Roles & Responsibilities
 - The Women Landing page,Men Landing Page,Footer are designed & functioned by Mahesh.
@@ -106,7 +102,7 @@ ASOS is a fashion brand for the newest & trending Cloths, fashion accessories an
 
 ## Glimpses of Asos-Clone 🙈 :
 
-
+<!-- 
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/103682371/202778604-eff6ba8e-9acf-40d4-b843-9533acbd3ac4.jpg" alt="home" /></td>
@@ -116,7 +112,7 @@ ASOS is a fashion brand for the newest & trending Cloths, fashion accessories an
     <td><img src="https://user-images.githubusercontent.com/91532881/175955141-44aefea0-a9ee-4c3a-93e0-094ca9214e54.jpeg" alt="signup" /></td>
     <td><img src="https://user-images.githubusercontent.com/91532881/175955129-e5392377-e72a-4868-883f-5a244fc9bc87.jpeg" alt="login" /></td>
   </tr> -->
-</table>
+</table> -->
 
 <br />
 
